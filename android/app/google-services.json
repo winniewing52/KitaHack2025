@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181926692953",
+    "project_id": "safety-of-sisters-f0593",
+    "storage_bucket": "safety-of-sisters-f0593.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181926692953:android:beede9724af23792d14948",
+        "android_client_info": {
+          "package_name": "com.weh101.safety_of_sisters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWLpcd_Z4T-iR4LMVEaSESlzjU_PZxjc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
